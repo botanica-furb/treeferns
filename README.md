@@ -12,7 +12,7 @@ Data from "Expected impacts of climate change on tree ferns distribution and div
 
 
 References:
-GBIF.org (05 April 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.umzwla
-GBIF.org (05 April 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.nta2eg
-GBIF.org (11 October 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.jfsj2q
+GBIF.org (05 April 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.umzwla<br/>
+GBIF.org (05 April 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.nta2eg<br/>
+GBIF.org (11 October 2019) GBIF Occurrence Download https://doi.org/10.15468/dl.jfsj2q<br/>
 Vibrans, A. C., Gasper, A. L. D., Moser, P., Oliveira, L. Z., Lingner, D. V., & Sevegnani, L. (2020). Insights from a large-scale inventory in the southern Brazilian Atlantic Forest. Scientia Agricola, 77(1).
